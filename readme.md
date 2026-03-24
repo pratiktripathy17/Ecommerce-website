@@ -15,7 +15,7 @@
 | Sudhir Kumar Todo| Data & Analytics |
 | Swatej Naik| Admin Dashboard |
 
-###### - Anyone can contribute to design or improve the UI/UX
+###### - Anyone can contribute to design or improve the UI/UX.
 
 ## Project Timeline
 - Week 1: Requirement Analysis and UI Wireframing
