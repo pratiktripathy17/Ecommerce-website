@@ -7,12 +7,12 @@
 * Team Number :- 04
 * Total Contributors:- 5
 
-| Student Name | Role | 
+| Student Name | Reg No | 
 | :----------- | :----|
-| Rajesh Kerketta| System Integration & Auth |
-| Subhrajeet Panda| Product engine |
-| Pratik Tripathy| Cart & Checkout Logic |
-| Sudhir Kumar Todo| Data & Analytics |
+| Rajesh Kerketta| Auth & Frontend |
+| Subhrajeet Panda| Product engine and Auth |
+| Pratik Tripathy| Cart & Checkout Logic & Frontend |
+| Sudhir Kumar Todo| Frontend & System Integration |
 | Swatej Naik| Admin Dashboard |
 
 ###### - Anyone can contribute to design or improve the UI/UX
