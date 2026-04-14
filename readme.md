@@ -9,11 +9,11 @@
 
 | Student Name | Role | 
 | :----------- | :----|
-| Rajesh Kerketttttta| System Integration & Auth |
-| Subhrajeet Panda| Product engine |
-| Pratik Tripathy| Cart & Checkout Logic |
-| Sudhir Kumar Todo| Data & Analytics |
-| Swatej Naik| React Developer |
+| Rajesh Kerketta| Auth & Frontend |
+| Subhrajeet Panda| Product engine and Auth |
+| Pratik Tripathy| Cart & Checkout Logic & Frontend |
+| Sudhir Kumar Todo| Frontend & System Integration |
+| Swatej Naik| Admin Dashboard |
 
 ###### - Anyone can contribute to design or improve the UI/UX.
 
